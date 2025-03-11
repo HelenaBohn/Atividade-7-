@@ -1,0 +1,61 @@
+.conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center ;
+    gap: 10px;
+} 
+
+
+body{
+    background-color:rgb(105, 203, 255);
+}
+
+.azul{
+    background-color: rgb(105, 203, 255);
+    padding: 30px;
+    margin: 10px;
+    width: 1080px;
+    height: 200px;
+}
+
+.amarelo{
+    background-color: rgb(224, 223, 230);
+    padding: 10px;
+    margin: 10px;
+    height: 240px;
+}
+
+.extender{
+    background-color: rgb(191, 151, 19) ;
+    padding-right: 47%;
+}
+.flex{
+    display: flex;
+
+}
+
+.largura{
+   width: 20000px; 
+   height: 200px;
+}
+
+.largura2{
+    width: 10000px; 
+    height: 200px;
+
+}
+
+.desenho{
+    
+    height: 240px;
+   
+}
+
+#rodape {
+    color: rgb(0, 0, 0);
+    background-color: rgb(141, 149, 219);
+    padding: 10px;
+    text-align: center;
+}
+
+
