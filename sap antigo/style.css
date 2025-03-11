@@ -1,0 +1,22 @@
+body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+#navbar {
+    background-color: rgb(171, 171, 177);
+    margin: 0;
+    text-align: center;
+}
+   
+#rodape {
+    color: rgb(0, 0, 0);
+    background-color: rgb(171, 171, 180);
+    padding: 10px;
+    text-align: center;
+}
